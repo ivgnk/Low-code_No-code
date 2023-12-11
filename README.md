@@ -66,6 +66,7 @@ https://en.wikipedia.org/wiki/Comparison_of_shopping_cart_software
 # Habr
 [tag: Low code](https://habr.com/ru/search/?target_type=posts&order=relevance&q=%5Blow-code%5D)                
 [tag: No code](https://habr.com/ru/search/?target_type=posts&order=relevance&q=%5Bno-code%5D)
+https://habr.com/ru/companies/lsfusion/articles/
 
 # Other articles
 **https://www.gartner.com/reviews/market/enterprise-low-code-application-platform**            
@@ -75,7 +76,7 @@ https://en.wikipedia.org/wiki/Comparison_of_shopping_cart_software
 11.01.2022 [Top free no-code ML platforms in 2022](https://analyticsindiamag.com/top-free-no-code-ml-platforms-in-2022/)                   
 **[The Top 23 Python No Code Open Source Projects](https://awesomeopensource.com/projects/no-code/python)**               
 
-
+loginom.ru
 
 10.05.2023 [Лучшие платформы Low-Code для использования в 2023 году](https://appmaster.io/ru/blog/luchshie-platformy-s-nizkim-kodom)       
 https://appmaster.io/ru/no-code
