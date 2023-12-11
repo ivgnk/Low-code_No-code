@@ -1,4 +1,6 @@
 # GitHub
+**https://github.com/valentin-vogel/awesome-nocode-lowcode**
+
 https://github.com/topics/low-code -  882 public repositories   
 **https://github.com/steedos/awesome-low-code**               
 https://github.com/topics/low-code?l=python - 27 public repositories (JavaScript + TypeScript = 235+161, Java - 59)                  
@@ -25,7 +27,12 @@ https://en.wikipedia.org/wiki/List_of_online_database_creator_apps
 - - -
 https://en.wikipedia.org/wiki/Robotic_process_automation       
 https://en.wikipedia.org/wiki/Category:Free_software_programmed_in_Python       
-https://ru.wikipedia.org/wiki/Категория:Свободные_ERP-системы
+
+https://en.wikipedia.org/wiki/Category:Free_business_software
+https://en.wikipedia.org/wiki/Category:Free_ERP_software
+https://en.wikipedia.org/wiki/Category:Free_customer_relationship_management_software
+https://en.wikipedia.org/wiki/Comparison_of_shopping_cart_software
+
 
 
 # Habr
