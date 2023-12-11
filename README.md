@@ -67,5 +67,6 @@ https://en.wikipedia.org/wiki/Comparison_of_shopping_cart_software
 # Other articles
 **https://www.gartner.com/reviews/market/enterprise-low-code-application-platform**            
 
+
 10.05.2023 [Лучшие платформы Low-Code для использования в 2023 году](https://appmaster.io/ru/blog/luchshie-platformy-s-nizkim-kodom)       
 https://appmaster.io/ru/no-code
