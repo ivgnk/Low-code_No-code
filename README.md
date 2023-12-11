@@ -69,7 +69,7 @@ https://en.wikipedia.org/wiki/Comparison_of_shopping_cart_software
 
 # Other articles
 **https://www.gartner.com/reviews/market/enterprise-low-code-application-platform**            
-
+[17.03.2021 Top 18 Low-Code and No-Code ML Platforms](https://dev.to/serokell/top-18-low-code-and-no-code-ml-platforms-5981)        
 
 10.05.2023 [Лучшие платформы Low-Code для использования в 2023 году](https://appmaster.io/ru/blog/luchshie-platformy-s-nizkim-kodom)       
 https://appmaster.io/ru/no-code
