@@ -21,8 +21,11 @@ More (Uncategorized)
 </details>             
 
 ## Low code
-https://github.com/topics/low-code -  882 public repositories   
-**https://github.com/steedos/awesome-low-code**               
+https://github.com/topics/low-code -  882 public repositories 
+
+![Enterprise Low-Code Application Platforms](https://raw.githubusercontent.com/steedos/awesome-low-code/master/LCAP-MQ-Graphic.jpeg)                 
+**https://github.com/steedos/awesome-low-code**                               
+
 https://github.com/topics/low-code?l=python - 27 public repositories (JavaScript + TypeScript = 235+161, Java - 59)                  
 
 https://github.com/odoo/odoo -  ERP- и CRM-система               
