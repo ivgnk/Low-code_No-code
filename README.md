@@ -3,6 +3,9 @@ https://github.com/topics/low-code -  882 public repositories
 **https://github.com/steedos/awesome-low-code**               
 https://github.com/topics/low-code?l=python - 27 public repositories (JavaScript + TypeScript = 235+161, Java - 59)                  
 
+https://github.com/odoo/odoo -  ERP- и CRM-система               
+https://github.com/frappe/frappe -  web framework for real world applications, in Python and Javascript           
+https://frappeframework.com              
 
 
 https://github.com/topics/no-code - 502 public repositories                               
@@ -14,11 +17,16 @@ https://baserow.io
 https://en.wikipedia.org/wiki/No-code_development_platform               
 
 https://en.wikipedia.org/wiki/Low-code_development_platform           
-https://en.wikipedia.org/wiki/List_of_low-code_development_platforms                      
+https://en.wikipedia.org/wiki/List_of_low-code_development_platforms        
+https://ru.wikipedia.org/wiki/Odoo (Python)         
 
 https://en.wikipedia.org/wiki/List_of_online_database_creator_apps                  
 
-https://en.wikipedia.org/wiki/Robotic_process_automation                   
+- - -
+https://en.wikipedia.org/wiki/Robotic_process_automation       
+https://en.wikipedia.org/wiki/Category:Free_software_programmed_in_Python       
+https://ru.wikipedia.org/wiki/Категория:Свободные_ERP-системы
+
 
 # Habr
 [tag: Low code](https://habr.com/ru/search/?target_type=posts&order=relevance&q=%5Blow-code%5D)                
