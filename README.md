@@ -19,8 +19,6 @@ Scraper
 More (Uncategorized)           
 </details>             
 
-**https://github.com/valentin-vogel/awesome-nocode-lowcode#machine-learning**              
-
 https://github.com/topics/low-code -  882 public repositories   
 **https://github.com/steedos/awesome-low-code**               
 https://github.com/topics/low-code?l=python - 27 public repositories (JavaScript + TypeScript = 235+161, Java - 59)                  
