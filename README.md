@@ -1,8 +1,8 @@
 # GitHub
-**https://github.com/valentin-vogel/awesome-nocode-lowcode**    
-**https://github.com/valentin-vogel/awesome-nocode-lowcode#machine-learning** :
-https://liner.ai       
-https://azure.microsoft.com/en-us/products/machine-learning/automatedml/#overview    
+**https://github.com/valentin-vogel/awesome-nocode-lowcode**          
+**https://github.com/valentin-vogel/awesome-nocode-lowcode#machine-learning** :             
+https://liner.ai         
+https://azure.microsoft.com/en-us/products/machine-learning/automatedml/#overview        
 
 <details><summary>list of other application</summary>               
   
