@@ -2,7 +2,8 @@
 **https://github.com/valentin-vogel/awesome-nocode-lowcode**    
 **https://github.com/valentin-vogel/awesome-nocode-lowcode#machine-learning**
 
-<details>list of other application
+<details><summary>list of other application</summary>               
+  
 Enterprise Platforms,                     
 Automation and Workflows,                     
 Forms,               
