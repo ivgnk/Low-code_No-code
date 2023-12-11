@@ -70,7 +70,10 @@ https://en.wikipedia.org/wiki/Comparison_of_shopping_cart_software
 # Other articles
 **https://www.gartner.com/reviews/market/enterprise-low-code-application-platform**            
 17.03.2021 [Top 18 Low-Code and No-Code ML Platforms](https://dev.to/serokell/top-18-low-code-and-no-code-ml-platforms-5981)        
+05.05.2021 [5 best open source low-code platforms (tried and tested)](https://budibase.com/blog/open-source-low-code-platforms/)        
 05.06.2021 **[Top 18 Open-source Free Low- and No-Code platforms for enterprise](https://medevel.com/os-18-lowcode)**
+11.01.2022 [Top free no-code ML platforms in 2022](https://analyticsindiamag.com/top-free-no-code-ml-platforms-in-2022/)                   
+**[The Top 23 Python No Code Open Source Projects](https://awesomeopensource.com/projects/no-code/python)**               
 
 
 
