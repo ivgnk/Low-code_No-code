@@ -3,12 +3,12 @@
 **https://github.com/valentin-vogel/awesome-nocode-lowcode#machine-learning**
 
 <details><summary>list of other application</summary>              
-Enterprise Platforms            
-Automation and Workflows               
-Forms           
-Internal             
-Apps              
-Landing Pages                
+Enterprise Platforms                     
+Automation and Workflows                     
+Forms               
+Internal                
+Apps                     
+Landing Pages                      
 Websites               
 Portfolios            
 Membership          
