@@ -36,6 +36,7 @@ https://github.com/bram2w/baserow - open source no-code database tool and Airtab
 https://baserow.io                       
 
 # Wiki
+## Low code / No code
 https://en.wikipedia.org/wiki/No-code_development_platform               
 
 https://en.wikipedia.org/wiki/Low-code_development_platform           
@@ -44,7 +45,7 @@ https://ru.wikipedia.org/wiki/Odoo (Python)
 
 https://en.wikipedia.org/wiki/List_of_online_database_creator_apps                  
 
-- - -
+## Others
 https://en.wikipedia.org/wiki/Robotic_process_automation       
 https://en.wikipedia.org/wiki/Category:Free_software_programmed_in_Python       
 
