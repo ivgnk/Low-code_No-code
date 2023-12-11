@@ -4,10 +4,10 @@
 
 <details><summary>list of other application</summary>               
   
-Enterprise Platforms,                     
-Automation and Workflows,                     
-Forms,               
-Internal,                
+Enterprise Platforms                     
+Automation and Workflows                     
+Forms               
+Internal                
 Apps                     
 Landing Pages                      
 Websites               
