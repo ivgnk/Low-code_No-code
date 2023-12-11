@@ -31,6 +31,7 @@ https://github.com/topics/low-code?l=python - 27 public repositories (JavaScript
 https://github.com/odoo/odoo -  ERP- и CRM-система               
 https://github.com/frappe/frappe -  web framework for real world applications, in Python and Javascript           
 https://frappeframework.com              
+https://github.com/SelfExplainML/PiML-Toolbox - 
 
 ## No code
 https://github.com/topics/no-code - 502 public repositories                               
@@ -64,3 +65,7 @@ https://en.wikipedia.org/wiki/Comparison_of_shopping_cart_software
 [tag: No code](https://habr.com/ru/search/?target_type=posts&order=relevance&q=%5Bno-code%5D)
 
 # Other articles
+**https://www.gartner.com/reviews/market/enterprise-low-code-application-platform**            
+
+10.05.2023 [Лучшие платформы Low-Code для использования в 2023 году](https://appmaster.io/ru/blog/luchshie-platformy-s-nizkim-kodom)       
+https://appmaster.io/ru/no-code
