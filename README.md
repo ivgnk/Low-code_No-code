@@ -99,4 +99,6 @@ https://github.com/topics/low-code?l=dart - 8 repo
 https://github.com/topics/no-code?l=dart - 5 repo                
 https://github.com/topics/nocode?l=dart - 4 repo                       
 
+## Mobile application development
 **[Mobile-application-development-with-Python](https://ahmetfurkandemir.github.io/Mobile-application-development-with-Python/)**
+07.12.2019 [Python в Mobile development](https://habr.com/ru/articles/479126)               
