@@ -75,8 +75,26 @@ https://habr.com/ru/companies/lsfusion/articles/
 05.06.2021 **[Top 18 Open-source Free Low- and No-Code platforms for enterprise](https://medevel.com/os-18-lowcode)**
 11.01.2022 [Top free no-code ML platforms in 2022](https://analyticsindiamag.com/top-free-no-code-ml-platforms-in-2022/)                   
 **[The Top 23 Python No Code Open Source Projects](https://awesomeopensource.com/projects/no-code/python)**               
+27.11.2023 [Best Open Source Low Code Platforms For You In 2023](https://codeornocode.com/no-code/best-open-source-low-code-platforms-2023/)              
+
 
 loginom.ru
+[Comparison Of Top 20+ Open Source Low Code Platforms On GitHub](https://synodus.com/blog/low-code/open-source-low-code-platforms/)           
+[Top 10 Open Source No Code Platforms](https://blog.back4app.com/open-source-no-code-platforms/)                   
+
 
 10.05.2023 [Лучшие платформы Low-Code для использования в 2023 году](https://appmaster.io/ru/blog/luchshie-platformy-s-nizkim-kodom)       
 https://appmaster.io/ru/no-code
+
+# Python & Dart
+https://github.com/topics/low-code?l=python - 27 repo              
+https://github.com/topics/no-code?l=python - 24 repo                    
+                    
+https://github.com/topics/lowcode?l=python - 15 repo                    
+https://github.com/topics/nocode?l=python - 24 repo                         
+                  
+https://github.com/topics/low-code?l=dart - 8 repo                   
+https://github.com/topics/no-code?l=dart - 5 repo                
+https://github.com/topics/nocode?l=dart - 4 repo                       
+
+
