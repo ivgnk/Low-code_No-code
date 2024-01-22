@@ -68,6 +68,11 @@ https://en.wikipedia.org/wiki/Comparison_of_shopping_cart_software
 [tag: No code](https://habr.com/ru/search/?target_type=posts&order=relevance&q=%5Bno-code%5D)
 https://habr.com/ru/companies/lsfusion/articles/
 
+12.01.2021 [Анализ рынка Low-code систем для автоматизации бизнеса](https://habr.com/ru/articles/536908/):                     
+Mendix - [1](https://www.mendix.com) [2](https://appmaster.io/ru/prilozhenie), OutSystems, ELMA365, Creatio             
+
+https://ozma.io
+
 # Other articles
 **https://www.gartner.com/reviews/market/enterprise-low-code-application-platform**             
 17.03.2021 [Top 18 Low-Code and No-Code ML Platforms](https://dev.to/serokell/top-18-low-code-and-no-code-ml-platforms-5981)            
